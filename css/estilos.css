@@ -1,16 +1,16 @@
 body {
-  background-image: url('https://images2.alphacoders.com/535/535390.png');
-  background-size: auto 100vh;
+  background-image: url(background.png);
+  background-size: cover;
   font-family: Arial;
-  height: 100vh;
 }
 
 .menu {
-  background-color: white;
+  background-image: url(background-menu-1.jpg);
+  background-size: cover;
 }
 
 a {
-  color: teal;
+  color: darkblue;
   text-decoration: none;
 }
 
